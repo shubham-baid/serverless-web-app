@@ -10,39 +10,39 @@ This project demonstrates a simple **serverless CRUD web application** built usi
 
 ## 📌 DynamoDB Table Creation
 
-![DynamoDB Table](images/Screenshot%202025-09-17%20at%205.11.56 PM.png)
+![Screenshot](images/TableCreation.png)
 
 ---
 
 ## ⚡ Lambda Function Creation & Code Deployment
 
-![Lambda Creation](images/Screenshot%202025-09-17%20at%205.12.14 PM.png)
+![Screenshot](images/LambdaCreation.png)
 
-![Lambda Code](images/Screenshot%202025-09-17%20at%205.12.34 PM.png)
+![Screenshot](images/LambdaCode.png)
 
 ---
 
 ## 🌐 API Gateway: API Creation & Deployment
 
-![API Deployment](images/Screenshot%202025-09-17%20at%205.10.47 PM.png)
+![Screenshot](images/APICreation.png)
 
-![API Methods](images/Screenshot%202025-09-17%20at%205.10.34 PM.png)
+![Screenshot](images/APIDeployment.png)
 
 ---
 
 ## 🛠️ CRUD Operations via Postman
 
 - **Create / Insert Item**  
-  ![Create Item](images/Screenshot%202025-09-17%20at%205.06.45 PM.png)
+  ![Screenshot](images/POST.png)
 
 - **Read / Get Item**  
-  ![Read Item](images/Screenshot%202025-09-17%20at%205.09.07 PM.png)
+  ![Screenshot](images/GET.png)
 
 - **Update Item**  
-  ![Update Item](images/Screenshot%202025-09-17%20at%205.09.48 PM.png)
+  ![Screenshot](images/PUT.png)
 
 - **Delete Item**  
-  ![Delete Item](images/Screenshot%202025-09-17%20at%205.10.21 PM.png)
+  ![Screenshot](images/DELETE.png)
 
 ---
 
